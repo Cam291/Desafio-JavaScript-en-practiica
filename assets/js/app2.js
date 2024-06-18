@@ -39,4 +39,3 @@ btn6.addEventListener("click", (event) => {
 })
 
 
-git comm
